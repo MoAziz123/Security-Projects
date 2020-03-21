@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\CryptoDecoder\CryptoDecoder\obj\Debug\CryptoDecoder.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\CryptoDecoder\CryptoDecoder\obj\Debug\CryptoDecoder.Form1.resources
+C:\Users\Lenovo\source\repos\CryptoDecoder\CryptoDecoder\obj\Debug\CryptoDecoder.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\CryptoDecoder\CryptoDecoder\obj\Debug\CryptoDecoder.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\CryptoDecoder\CryptoDecoder\obj\Debug\CryptoDecoder.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CryptoDecoder\CryptoDecoder\bin\Debug\CryptoDecoder.exe.config
+C:\Users\Lenovo\source\repos\CryptoDecoder\CryptoDecoder\bin\Debug\CryptoDecoder.exe
+C:\Users\Lenovo\source\repos\CryptoDecoder\CryptoDecoder\bin\Debug\CryptoDecoder.pdb
+C:\Users\Lenovo\source\repos\CryptoDecoder\CryptoDecoder\obj\Debug\CryptoDecoder.exe
+C:\Users\Lenovo\source\repos\CryptoDecoder\CryptoDecoder\obj\Debug\CryptoDecoder.pdb
